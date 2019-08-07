@@ -698,6 +698,6 @@
 
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 
-  <includ.xml" />
+  <include name="anbox.xml" />
 
 </manifest>
