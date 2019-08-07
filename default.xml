@@ -2,7 +2,7 @@
 <manifest>
 
   <remote  name="aosp"
-           fetch="https://android.googlesource.com/"
+           fetch="https://mirrors.tuna.tsinghua.edu.cn/"
            review="https://android-review.googlesource.com/" />
   <default revision="refs/tags/android-9.0.0_r3"
            remote="aosp"
@@ -698,6 +698,6 @@
 
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 
-  <include name="anbox.xml" />
+  <includ.xml" />
 
 </manifest>
